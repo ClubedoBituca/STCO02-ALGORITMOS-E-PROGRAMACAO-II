@@ -1,5 +1,3 @@
-Com base nos arquivos anexados, que representam trabalhos de implementação, aqui está um rascunho de um README para um repositório GitHub que aborda os conceitos aprendidos na disciplina de Algoritmos e Programação 2, ministrada pelo Professor Pedro Hokama:
-
 Algoritmos e Programação 2 (Prof. Pedro Hokama)
 
 Este repositório contém os projetos e implementações desenvolvidas para a disciplina de Algoritmos e Programação 2 (A&P 2). O foco principal da disciplina foi aprofundar o conhecimento em estruturas de dados avançadas, algoritmos de ordenação, técnicas de busca e manipulação de arquivos.
